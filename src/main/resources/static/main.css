@@ -35,6 +35,6 @@ body{
 	height: 500px;
 	background-color: lightblue;
 }
-.a, table{
+table{
 	text-align: left;
 }
